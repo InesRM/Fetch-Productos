@@ -1,26 +1,104 @@
 [
     {
-        "name": "Product3",
-        "description": "third added",
-        "price": "55",
-        "images": "p3.jpg"
+        "name": "Avatar",
+        "description": "Resumen Ciencia Ficcion",
+        "price": "17",
+        "images": "avatar.png"
     },
     {
-        "name": "Product8",
-        "description": "eigth added",
-        "price": "99",
-        "images": "p8.jpg"
+        "name": "Harry Potter y el prisionero de Azkaban",
+        "description": "Cosas magicas",
+        "price": "20",
+        "images": "harrypotter.jpg"
     },
     {
-        "name": "Product9",
-        "description": "ninth added",
-        "price": "55",
-        "images": "p9.jpg"
+        "name": "Star Wars",
+        "description": "Guerra de las Galaxias",
+        "price": "12",
+        "images": "starWars.jpeg"
     },
     {
-        "name": "Product2",
-        "description": "second added",
-        "price": "86",
-        "images": "p2.jpg"
+        "name": "DeadPool",
+        "description": "Resumen Comedia",
+        "price": "20",
+        "images": "deadpool.jpg"
+    },
+    {
+        "name": "Happier Than Ever",
+        "description": "album",
+        "price": "12",
+        "images": "happierThanEver.jpg"
+    },
+    {
+        "name": "La Novena Sinfonia",
+        "description": "album",
+        "price": "8",
+        "images": "novenaSinfonia.jpg"
+    },
+    {
+        "name": "AM",
+        "description": "album",
+        "price": "10",
+        "images": "arcticMonkeys.jpg"
+    },
+    {
+        "name": "SpiderMan",
+        "description": "Resumen",
+        "price": "7",
+        "images": "spiderman.jpg"
+    },
+    {
+        "name": "Demon Slayer",
+        "description": "Resumen",
+        "price": "8",
+        "images": "demonSlayer.jpg"
+    },
+    {
+        "name": "Ataque a los Titanes",
+        "description": "Resumen",
+        "price": "8",
+        "images": "attackontitan.png"
+    },
+    {
+        "name": "Jujutsu Kaisen",
+        "description": "Resumen",
+        "price": "8",
+        "images": "Jujutsu_kaisen.jpg"
+    },
+    {
+        "name": "Los Pilares de la Tierra",
+        "description": "Resumen",
+        "price": "22",
+        "images": "pilaresTierra.jpg"
+    },
+    {
+        "name": "IT",
+        "description": "Resumen Terror",
+        "price": "18",
+        "images": "it.jpg"
+    },
+    {
+        "name": "El Senor de los Anillos",
+        "description": "Resumen",
+        "price": "20",
+        "images": "elSe%C3%B1orDeLosAnillos.jpg"
+    },
+    {
+        "name": "Centro Comercial",
+        "description": "El corte ingles logotipo",
+        "price": "32",
+        "images": "el-corte-ingles-logo.jpg"
+    },
+    {
+        "name": "Las Frutas",
+        "description": "frutas variadas de temporada",
+        "price": "123",
+        "images": "p4.jpg"
+    },
+    {
+        "name": "Las Frutas",
+        "description": "frutas variadas de temporada",
+        "price": "123",
+        "images": "http:\/\/localhost:3000\/html\/assets\/img\/p4.jpg"
     }
 ]

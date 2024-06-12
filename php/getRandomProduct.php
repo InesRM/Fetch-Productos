@@ -1,7 +1,7 @@
 <?php 
 try{
   
-    $productionsJson =file_get_contents('../data/OLDproductos.json');
+    $productionsJson =file_get_contents('../data/productos.json');
     $productions = json_decode($productionsJson, true);
 
     if (empty($productions)) {
