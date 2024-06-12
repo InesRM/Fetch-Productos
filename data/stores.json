@@ -1,0 +1,35 @@
+[
+  {
+    "CIF": "CIF 1",
+    "name": "store 1",
+    "adress": "3 Gemini DrElizabeth City, North Carolina(NC)",
+    "phone": "628 709 327",
+    "x": "10",
+    "y": "43"
+  },
+  
+  {
+    "CIF": "CIF 2",
+    "name": "store 2",
+    "adress": "Winfield, Alabama(AL), 35594",
+    "phone": "749 543 166 ",
+    "x": "52",
+    "y": "78"
+  },
+  {
+    "CIF": "CIF 3",
+    "name": "store 3",
+    "adress": "2425 Katy Flewellen Rd",
+    "phone": "729 067 636 ",
+    "x": "32",
+    "y": "8"
+  },
+  {
+    "CIF": "CIF 4",
+    "name": "store 4",
+    "adress": "Winchendon, Massachusetts(MA)",
+    "phone": "728 964 566 ",
+    "x": "144",
+    "y": "53"
+  }
+]

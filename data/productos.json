@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Product3",
+        "description": "third added",
+        "price": "55",
+        "images": "p3.jpg"
+    },
+    {
+        "name": "Product8",
+        "description": "eigth added",
+        "price": "99",
+        "images": "p8.jpg"
+    },
+    {
+        "name": "Product9",
+        "description": "ninth added",
+        "price": "55",
+        "images": "p9.jpg"
+    },
+    {
+        "name": "Product2",
+        "description": "second added",
+        "price": "86",
+        "images": "p2.jpg"
+    }
+]
