@@ -100,5 +100,11 @@
         "description": "frutas variadas de temporada",
         "price": "123",
         "images": "http:\/\/localhost:3000\/html\/assets\/img\/p4.jpg"
+    },
+    {
+        "name": "La Novena Sinfonia",
+        "description": "album",
+        "price": "8",
+        "images": "http:\/\/localhost:3000\/html\/assets\/img\/novenaSinfonia.jpg"
     }
 ]

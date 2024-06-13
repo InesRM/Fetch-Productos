@@ -7,10 +7,13 @@ window.addEventListener("load", function () {
       favoritos.forEach((producto) => {
         if (producto) {
           const card = document.createElement("div");
-          card.classList.add("card");
+          card.style.alignItems = "center";
+          card.style.justifyContent = "center";
+          card.style.display = "flex";
+          card.style.margin = "10px";
           card.innerHTML = `
-          <div class="card" style="width: 38rem;">
-            <img src="${producto.images}" class="card-img-top" alt="${producto.name}">
+          <div class="card">
+            <img src="../html/assets/img/${producto.images}" class="card-img-top" alt="${producto.name}">
           <div class="card-body">
                 <h5 class="card-title">${producto.name}</h5>
                 <p class="card-text">${producto.description}</p>
